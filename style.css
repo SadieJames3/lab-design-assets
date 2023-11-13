@@ -2,3 +2,20 @@ body {
      background-image: url(/assets/navy-blue-background.jpg);
      color: #E4B77D;
 }
+img {
+     height: 50px;
+     width: 60px;
+}
+.nav {
+     /* background-color: yellow; */
+     list-style-type: none;
+     text-align: center; 
+     padding: 0;
+     margin: 0;
+   }
+   
+   .nav li {
+     display: inline-block;
+     font-size: 20px;
+     padding: 20px;
+   }
