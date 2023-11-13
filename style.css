@@ -1,5 +1,5 @@
 body {
-     background-image: url("/assets/navy-blue-background.jpeg");
+     background-image: url(./assets/navy-blue-background.jpg);
      color: #E4B77D;
 }
 img {
@@ -7,7 +7,6 @@ img {
      width: 60px;
 }
 .nav {
-     /* background-color: yellow; */
      list-style-type: none;
      text-align: center; 
      padding: 0;
