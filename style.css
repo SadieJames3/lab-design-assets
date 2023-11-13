@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
 body {
      background-image: url(/assets/background.jpg);
      color: #E4B77D;
@@ -18,3 +20,12 @@ img {
      font-size: 20px;
      padding: 20px;
    }
+h1 {
+     text-align: center;
+     font-family: 'Arizonia';
+     font-size: 68px;
+}
+h2 {
+     text-align: center;
+     font-size: 38px;
+}
