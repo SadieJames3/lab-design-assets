@@ -1,0 +1,12 @@
+:root{     
+     --davys-gray: #565264ff;
+     --dim-gray: #706677ff;
+     --mountbatten-pink: #a6808cff;
+     --platinum: #ccdbdcff;
+     --ash-gray: #96bbbbff;
+     --moonstone: #58a4b0ff;
+     --fairy-tale: #f1c8dbff;
+     --tea-rose-red: #ffccc9ff;
+     --claret: #69122fff;
+     --gunmetal: #30343fff;
+}
